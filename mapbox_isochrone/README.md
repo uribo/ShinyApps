@@ -9,7 +9,7 @@
 - Mapbox API Token
 
 ```r
-shiny::runGitHub("shinyapps", "uribo", subdir = "mapbox_isochrone")
+shiny::runGitHub("shinyapps", "uribo", subdir = "mapbox_isochrone", ref = "main")
 ```
 
 ## 利用したShiny関連パッケージ
